@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cinta Sejati</title>
+</head>
+<body style="text-align: center; background-color: #f7e5e8; font-family: Arial, sans-serif;">
+    <h1>Selamat Hari Jadi Cinta!</h1>
+    <p>Dear <strong>Nama Pacar Anda</strong>,</p>
+    <p>Di hari spesial ini, aku ingin mengucapkan selamat hari jadi yang tak terlupakan. Kamu adalah sinar dalam hidupku, dan aku bersyukur memiliki kamu di sampingku.</p>
+    <p>Setiap momen bersamamu adalah anugerah yang tak ternilai. Semoga cinta kita semakin kuat seiring berjalannya waktu.</p>
+    <p><em>Aku mencintaimu lebih dari kata-kata.</em></p>
+    <p><img src="link_gambar_pacar_anda.jpg" alt="Foto Kita Bersama" style="max-width: 80%;"></p>
+</body>
+</html>
